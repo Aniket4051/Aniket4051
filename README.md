@@ -2,8 +2,7 @@
 - 👀 I’m interested in CyberSecurity.
 - 🌱 I’m currently persuing B.Tech in Computer Sceince.
 - 💞️ I’m looking to collaborate on.
-- 📫 How to reach me.
-https://www.linkedin.com/feed/
+- 📫 How to reach me...
 
 <!---
 Aniket4051/Aniket4051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
